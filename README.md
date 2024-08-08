@@ -1,6 +1,9 @@
 # Dheeraj Kallakuri's Portfolio
+<p align="center">
+<img width="300px" height="300px" alt="cartoon" src="https://github.com/dheerajkallakuri/portfolio-master/blob/main/images/icon.svg">
 
 Welcome to my portfolio! This repository showcases my professional work, including details about myself, my coding experience, my resume, research papers, skills, projects, certifications, awards, and contact information.
+</p>
 
 ## Portfolio Overview
 
