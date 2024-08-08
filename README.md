@@ -40,7 +40,7 @@ Below are some screenshots of my portfolio:
   <tr>
     <tr>
     <th>
-      <strong>Desktop Preview</strong>
+      <strong>Tablet Preview</strong>
     </th>
     <th>
       <strong>Mobile Preview</strong>
