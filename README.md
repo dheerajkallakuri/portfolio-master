@@ -1,6 +1,6 @@
-# Dheeraj's Portfolio
+# Dheeraj Kallakuri's Portfolio
 
-Welcome to my portfolio! This repository showcases my professional work, including details about myself, my coding experience, resume, research papers, skills, projects, certifications, awards, and contact information.
+Welcome to my portfolio! This repository showcases my professional work, including details about myself, my coding experience, my resume, research papers, skills, projects, certifications, awards, and contact information.
 
 ## Portfolio Overview
 
@@ -16,7 +16,8 @@ In this portfolio, you'll find:
 
 ## Portfolio Website
 
-The portfolio website was developed using HTML, CSS, and JavaScript. You can view the live portfolio [Dheeraj Kallakuri](https://dheerajkallakuri.github.io/portfolio-master/).
+The portfolio website was developed using HTML, CSS, and JavaScript. <br>
+You can view the live portfolio [Dheeraj Kallakuri](https://dheerajkallakuri.github.io/portfolio-master/).
 
 ### Screenshots
 
