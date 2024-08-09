@@ -9899,6 +9899,18 @@ border-radius: 5px;
   object-fit: contain;
 }
 
+.flag-image {
+  max-width: 800px;
+  padding: 20px 0px;
+  max-height: fit-content;
+}
+
+.copyright-sec {
+  padding: 20px 0px;
+  height: 100px;
+  margin: 50px 0px;
+}
+
 
 #ftco-loader {
   position: fixed;
